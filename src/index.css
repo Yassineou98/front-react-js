@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+body, button, input{
+	font-family: 'Poppins', sans-serif;
+
+}
+
+body{
+  max-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+/*body {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}*/
+
+
